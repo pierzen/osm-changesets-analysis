@@ -1,5 +1,5 @@
 # osm-changesets-analysis
-OpenStreetMap contributors changesets analysis
+OpenStreetMap contributors changesets statistics
 
 ## osmstats-neis-one-country-statistics-2022-03--2023-06.csv.zip
 
